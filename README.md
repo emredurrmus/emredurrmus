@@ -1,5 +1,5 @@
 # 💫 About Me 
-I am a software engineer skilled in building scalable web applications, with expertise in both front-end and back-end development.
+I am a software engineer experienced in developing scalable applications using various technologies.
 
 ---
 
